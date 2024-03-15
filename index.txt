@@ -1,6 +1,8 @@
 <html>
 <head>
 <title>Start Game</title>
+
+<body background="6148349_3147823.jpg"> 
 <link rel="icon" href="Untitled.jpg"/>
 </head>
 <html>
