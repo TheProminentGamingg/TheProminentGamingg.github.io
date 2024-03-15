@@ -1,0 +1,274 @@
+<html>
+<head>
+<title>Start Game</title>
+<link rel="icon" href="Untitled.jpg"/>
+</head>
+<html>
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.header {
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  width: 100%;
+  background-color: #FF00C7;
+}
+
+
+
+
+.header h3 {
+  text-align: center;
+}
+
+
+
+.progress-container {
+  width: 100%;
+  height: 8px;
+  background: #ccc;
+}
+
+
+.progress-bar {
+  height: 8px;
+  background: #04AA6D;
+  width: 0%;
+}
+
+
+
+</style>
+</head>
+<body>
+
+
+<div class="header">
+  <h3>Gaming is really a workout for your mind disguised as fun.</h3>
+  <div class="progress-container">
+    <div class="progress-bar" id="myBar"></div>
+  </div>  
+</div>
+
+<head>
+
+        <title>Document</title>
+
+</head>
+	
+<body background="6148349_3147823.jpg"> 
+
+
+<table border="0" width="100%" height="800px">
+
+<!----Row1---->
+
+<tr><th> <font face="Segoe Print"> <font size="10"> <font color="#00fff7"> Wish_Gaming4ever </font></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+
+
+<th><font size="1"> <a href="#">Home</a></th>
+<th><font size="1"><a href="#">About Us</a></th>
+<th><font size="1"><a href="#">Contact Us</a></th>
+</tr>
+
+
+
+<!----Row2---->
+<tr>
+<th colspan="8">
+<font color="white"face="Calibri" size="5">
+<h1>Welcome to our Website</h1>
+</h2> Let's Play! </h2>
+</font>
+</th>
+</tr>
+
+<!----Row3---->
+<tr>
+<th colspan="8">
+<font size="10" color="red" face="Palatino Linotype">
+Subscribe and Follow! </font>
+
+</th>
+</tr>
+
+<!----Row4---->
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+
+<!----Row5---->
+<tr>
+
+<th colspan="8">
+<font color="white"> Thanks for visiting </font>
+</th>
+</tr>
+
+
+
+<!----Row6---->
+<tr>
+<th></th>
+
+<th></th>
+<th></th>
+<th></th>
+
+</tr>
+
+</table>
+
+
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1.0" />
+	<style>
+		
+	/* Setting container to flex and
+		width to 50% of view port */
+	.container {
+		display: flex;
+		width: 100%;
+	}
+	/*Adding background image to each section*/
+	.one {
+
+		background: url(
+argenti.png);
+	}
+	.two {
+		background: url(
+Lyney.png);
+	}
+	.three {
+		background: url(
+Gekko.png);
+	}
+	.four {
+		background: url(
+kity.png);
+	}
+		
+	/* Background properties and
+		transition effect to section */
+	.section {
+		background-size: cover;
+		background-position: left;
+		background-repeat: no-repeat;
+		height: 40vh;
+		cursor: pointer;
+		flex: 1;
+		margin: 8px;
+		position: relative;
+		transition: all 0.7s ease-out;
+	}
+
+	/* section with active class will
+		grow flex to 3 times */
+	.section.active {
+		flex: 3;
+	}
+	</style>
+	<title>Expanding Cards</title>
+</head>
+<body>
+	
+	<!-- Container -->
+	<div class="container">
+		
+	<!-- Div with section and active -->
+	<div class="section one active"></div>
+		
+	<!-- All another div with section -->
+	<div class="section two"></div>
+	<div class="section three"></div>
+	<div class="section four"></div>
+	</div>
+
+	<script>
+			// selecting all sections with class of section
+	const sections = document.querySelectorAll(".section");
+
+	// Foreach section when clicked
+	sections.forEach((section) => {
+		section.addEventListener("click", () => {
+			
+		// remove active class from all another section and
+		// add it to the selected section
+		sections.forEach((section) => {
+			section.classList.remove("active");
+		});
+		section.classList.add("active");
+		});
+	});
+
+	</script>
+</body>
+</html>
+
+    
+</body>
+</html>
+
+
+
+ <style>
+  /*styling background*/ 
+  body { 
+   margin: 0; 
+   padding: 0; 
+   display: flex; 
+   height: 80vh; 
+   justify-content: center; 
+   align-items: center; 
+   background-color: #00210; 
+   font-family:sans-serif; 
+  } 
+
+
+  /* styling the button*/ 
+  a { 
+   padding: 10px 10px; 
+   display: inline-block; 
+   color: #ffffff; 
+   letter-spacing: 2px; 
+   text-transform: uppercase; 
+   text-decoration: none; 
+   font-size: 3em; 
+   overflow: hidden; 
+  } 
+
+
+  
+  a:hover { 
+   color: #111; 
+   background: #ff0000; 
+   box-shadow: 0 0 100px #ff0000; 
+   
+  } 
+ </style> 
+</head> 

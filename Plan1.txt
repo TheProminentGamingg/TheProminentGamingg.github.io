@@ -1,0 +1,114 @@
+
+<body background="6189831_3203362.jpg"> 
+
+<table border="0" cellspacing"10" cellpadding="90" width="100%">
+
+
+<!----Row1---->
+<th width="10%"><font size=" 2 " ><a href="Index.html">Home</a></font></th> 
+<th width="10%"><font size=" 2 "><a href="Aboutus.html">About Us</a></font></th>
+<th width="10%"><font size=" 2 "><a href="Outline.html">Outline</a></font></th>
+<th width="10%"><font size=" 2 "><a href="Plan.html">Plan</a></font></th>
+<th width="10%"><font size=" 2 "><a href="Feedback.html">Feedback</a></font></th>
+</tr>
+
+ <style>
+  /*styling background*/ 
+  body { 
+   margin: 0;
+   padding: 0
+   display: flex; 
+   height: 80vh; 
+   justify-content: top; 
+   align-items: left;
+   background-color: #00210; 
+   font-family:Sans-Serif; 
+  } 
+
+
+  /* styling the button*/ 
+  a { 
+   padding: 10px 10px; 
+   display: inline-block; 
+   color: #ffffff; 
+   letter-spacing: 2px; 
+   text-transform: uppercase; 
+   text-decoration: none; 
+   font-size: 3em; 
+   overflow: hidden; 
+  } 
+
+  a:hover { 
+   color: #111; 
+   background: #ff0000; 
+   box-shadow: 0 0 100px #ff0000; 
+   
+  } 
+ </style> 
+</head> 
+
+
+<html>
+
+<head>
+
+        <title>About Us- Gambler Gamerz</title>
+
+<body>
+
+<body background="6148349_3147823.jpg"> 
+</head>
+
+<table border="0" width="100%" bgcolor="black" height="4"> <font size="20" 
+<tr>
+
+
+
+</tr>
+</table>
+
+
+
+<h1 style="color:red"> <font size= "20" face="Segoe Print">Plan [Step by Step]</h1>
+
+
+
+<h1 style="color:#FF00B1"> <font size= "20" face="Segoe Print"> Step 1: Strategic Planning:</h1>
+
+
+<p style="color: white"> <font size= "20" face="Segoe Print"> Our goal for our video is to catch the attention of the people who might be interested in games or watching gaming channels. We thought of the games we can play during the stream.</p>
+
+
+
+<h1 style="color:#FF00B1"> <font size= "20" face="Segoe Print">Step 2: Pre-Production:</h1>
+
+
+
+<p style="color: white"> <font size= "20" face="Segoe Print"> 
+
+We plan on putting together trailers or scenes of the different chosen games we would play in our stream in the promotional video and at the same time, the introduction of our name, and social media accounts.</p>
+<p  style="color:white">We plan on using either Capcut or the Blurr App.
+</p>
+
+<h1 style="color: #FF00B1"> <font size= "20" face="Segoe Print"> Step 3: Production </h1> 
+
+<p style="color: white"> <font size= "20" face="Segoe Print"> We are going to gather all the clips of the chosen game, editing the colors, quality, and sound with the use of the editing app.</p>
+
+
+<h1 style="color:#FF00B1"> <font size= "20" face="Segoe Print"> Step 4: Post- Production </h2>
+
+<p style="color: white"> <font size= "20" face="Segoe Print"> Watching the final product with the group. Take note of their opinions, and either add more parts they want included or remove them then import the final product that everyone is satisfied with.</p>
+
+
+<h1 style="color: #FF00B1"> <font size= "20" face="Segoe Print">  Step 5: Marketing</h2><font size= "20" face="eurostyle"></h1>
+
+<p style="color: white"> <font size= "20" face="Segoe Print"> Posting the promotional video on our different social media accounts. </p>
+
+
+
+
+
+
+</body>
+</html>
+	
